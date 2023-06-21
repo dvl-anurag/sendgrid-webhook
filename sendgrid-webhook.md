@@ -13,19 +13,23 @@
 ```
 3> Click on "Settings" in the left sidebar.
 ```
-![Alt text](image.png)
+![image](https://github.com/gic-anurag/sendgrid-webhook/assets/89963141/98d9b3f0-062e-4423-9242-1cf1742efdf4)
+
 ```
 4> Select "Mail Settings" from the dropdown menu.
 ```
-![Alt text](image-1.png)
+![image](https://github.com/gic-anurag/sendgrid-webhook/assets/89963141/92c835b9-442c-4073-b2b7-9be45e73a500)
+
 ```
 5> Go to webhook stting's there is event webhooks.
 ```
-![Alt text](image-2.png)
+![image](https://github.com/gic-anurag/sendgrid-webhook/assets/89963141/5636612b-e30a-4e5b-98bd-4d196bd0fc3f)
+
 ```
 6> Now create new webhook
 ```
-![Alt text](image-3.png)
+![image](https://github.com/gic-anurag/sendgrid-webhook/assets/89963141/fc461165-360e-4755-b59e-5ffcbdcf585e)
+
 ```
 7> In the "HTTP POST URL" field, enter the URL of your webhook endpoint.
 ```
@@ -35,7 +39,8 @@
 ```
 9> Click the "Save" button to apply the changes.
 ```
-![Alt text](image-4.png)
+![image](https://github.com/gic-anurag/sendgrid-webhook/assets/89963141/9197bfbc-2cd3-47ea-8932-9baf28a0b9bc)
+
 
 ## NOTE:-
 ```
